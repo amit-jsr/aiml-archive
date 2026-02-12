@@ -9,9 +9,6 @@ Collection of AI/ML experiments, notebooks, and example projects created in past
 
 The repository intentionally keeps each project self-contained. See each notebook for dataset notes, dependencies, and detailed instructions.
 
-## Author
-- Amit Jaiswar
-
 ## Project Timeline
 - Initial development: Jan–Jul 2021
 - Refactored and documented: 2026
